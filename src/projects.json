@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "LinkedIn Clone",
+    "description": "A frontend clone of LinkedIn homepage with responsive layout.",
+    "category": "clone",
+    "tech": ["HTML", "CSS"],
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "Portfolio Website",
+    "description": "Modern portfolio built with React and Tailwind.",
+    "category": "react",
+    "tech": ["React", "Tailwind"],
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Student Management System",
+    "description": "Console-based Java project for managing student records.",
+    "category": "java",
+    "tech": ["Java"],
+    "link": "#"
+  }
+]
