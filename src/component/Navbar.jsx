@@ -100,8 +100,8 @@ const Navbar = () => {
 
           {/* Resume Button */}
           <a
-            href="/Neha_Sharma_Resume.pdf"
-            download="Neha_Sharma_Resume.pdf"
+            href="/NehaSharma_JavaDeveloper_Resume.pdf"
+            download="NehaSharma_JavaDeveloper_Resume.pdf"
             className="px-5 py-2 rounded-lg
             bg-[#8F6B4C]
             text-white
@@ -167,8 +167,8 @@ const Navbar = () => {
           </div>
 
           <a
-            href="/NehaSharma_JavaDeveloper_Resume"
-            download="Neha_Sharma_Resume.pdf"
+            href="/NehaSharma_JavaDeveloper_Resume.pdf"
+            download="NehaSharma_JavaDeveloper_Resume.pdf"
             className="px-6 py-2 rounded-lg
             bg-[#8F6B4C]
             text-white
