@@ -89,7 +89,7 @@ const Navbar = () => {
             </a>
 
             <a
-              href="https://github.com/your-github"
+              href="https://github.com/NehaSharma2602"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[#8F6B4C] transition-colors duration-300"
