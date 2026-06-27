@@ -28,18 +28,7 @@ const Hero = () => {
             efficient, and impactful while continuously evolving as an engineer.
           </p>
 
-          <button className="group inline-flex items-center gap-2 px-6 py-3
-  bg-gradient-to-r
-  from-[#9A7859]
-  via-[#8F6B4C]
-  to-[#76563C]
-  text-white
-  rounded-xl
-  font-semibold
-  shadow-md
-  hover:shadow-xl
-  hover:scale-105
-  transition-all duration-300"
+          <button className="group inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-[#9A7859] via-[#8F6B4C] to-[#76563C] text-white rounded-xl font-semibold shadow-md hover:shadow-xl hover:scale-105 transition-all duration-300"
 >
   <a href="#contact">Let's Connect</a>
 
@@ -62,7 +51,7 @@ const Hero = () => {
           ></div>
 
           <img
-            src="/profile2.jpeg"
+            src="neha sharma.jpeg"
             alt="Neha Sharma"
             draggable={false}
             onContextMenu={(e) => e.preventDefault()}
