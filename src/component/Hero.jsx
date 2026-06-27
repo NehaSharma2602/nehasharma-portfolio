@@ -1,4 +1,5 @@
 import React from "react";
+import profilePic from "../assets/neha-sharma.jpeg"
 
 const Hero = () => {
   return (
@@ -51,7 +52,7 @@ const Hero = () => {
           ></div>
 
           <img
-            src="/neha-sharma.jpeg"
+            src={profilePic}
             alt="Neha Sharma"
             draggable={false}
             onContextMenu={(e) => e.preventDefault()}
